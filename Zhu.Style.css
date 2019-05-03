@@ -240,6 +240,17 @@ span {
 	color:#337ab7;
 }
 
+.WorkExperience {
+	float: center;
+	width: 80%;
+    text-indent: 50px;
+	margin-top: 45px;
+	margin-right: 10px;
+	font-size: 1.35em;
+	line-height: 2em;
+	padding-left: 50px;
+}
+
 iframe {
 	margin: 3.5em;
 }
